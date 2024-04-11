@@ -11,7 +11,7 @@ func _process(delta):
 		summon()
 		flare_timer = 0
 
-func flflare_timerare_spawned():
+func flare_spawned():
 	flare_timer = 1
 
 func summon():
