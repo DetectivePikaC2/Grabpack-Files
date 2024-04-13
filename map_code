@@ -28,3 +28,6 @@ func battery_rev_complete():
 
 func blue_panel_finish():
 	pass
+
+func vhs_finish():
+	pass
